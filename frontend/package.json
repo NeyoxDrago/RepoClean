@@ -1,0 +1,47 @@
+{
+  "name": "repo-cleanr-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for RepoCleanr - GitHub repository management portal",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "biome check .",
+    "lint:fix": "biome check . --apply",
+    "type-check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "next": "^14.1.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "typescript": "^5.4.3",
+    "@types/react": "^18.2.79",
+    "@types/react-dom": "^18.2.23",
+    "@types/node": "^20.11.30",
+    "tailwindcss": "^3.4.3",
+    "daisyui": "^4.10.1",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "nuqs": "^1.17.1",
+    "axios": "^1.6.8",
+    "lucide-react": "^0.365.0",
+    "react-hot-toast": "^2.4.1",
+    "react-beautiful-dnd": "^13.1.1",
+    "@types/react-beautiful-dnd": "^13.1.8",
+    "react-hook-form": "^7.51.2",
+    "@hookform/resolvers": "^3.3.4",
+    "zod": "^3.22.4",
+    "clsx": "^2.1.0",
+    "react-intersection-observer": "^9.8.2",
+    "framer-motion": "^11.0.28"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^1.6.1",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "^14.1.4"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+} 

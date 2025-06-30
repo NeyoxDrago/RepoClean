@@ -1,0 +1,8 @@
+/.env
+node_modules
+*.gz
+
+.next
+**/.next
+
+backend/dist
