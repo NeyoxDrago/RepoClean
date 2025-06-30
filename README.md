@@ -146,7 +146,7 @@ Before installing RepoClean, ensure your system meets these requirements:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/RepoClean.git
+git clone https://github.com/neyoxdrago/RepoClean.git
 cd RepoClean
 
 # Verify Node.js version
@@ -594,7 +594,7 @@ If you encounter any issues or have questions:
 
 <div align="center">
 
-**Built with ❤️ by developers, for developers**
+**Built with ❤️ by NeyoxAI, for developers**
 
 [⭐ Star this repo](https://github.com/your-username/RepoClean) • [🐛 Report Bug](https://github.com/your-username/RepoClean/issues) • [✨ Request Feature](https://github.com/your-username/RepoClean/issues)
 
